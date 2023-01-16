@@ -1,2 +1,4 @@
 # bitcoind-api-service
-Simple uses of `python-bitcoinlib`
+Simple uses of `bitcoinlib`
+
+python -m venv env
